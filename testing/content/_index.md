@@ -1,11 +1,7 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-incididunt ut labore 
-et dolore magna aliqua. Pellentesque eu tincidunt tortor 
-aliquam nulla facilisi cras fermentum odio. A erat nam at lectus urna duis. 
-Sed velit dignissim sodales ut eu sem. 
+Hi! I'm Alfredo. I'm a Product Manager at Atlassian based out of San Francisco, California.
+I grew up in Texas and studied Advertising and CS at UT Austin. 
 
-Lectus urna duis [link text here](https://link-url-here.org) convallis convallis 
-tellus. Diam sit amet nisl suscipit adipiscing bibendum est. Sed felis eget 
-velit aliquet sagittis id consectetur. Vulputate dignissim suspendisse in est 
-ante in nibh mauris cursus. Morbi quis commodo odio aenean. Mollis nunc sed id 
-semper risus in hendrerit gravida rutrum.s
+I've spent the first year out of college building Beacon, a new cloud security product at Atlassian.
+We're currently in Beta. I spend a lot of my free time reading, playing guitar, and building projects. 
+
+To chat, reach out on [LinkedIn](https://www.linkedin.com/in/alfredohuitron/). 

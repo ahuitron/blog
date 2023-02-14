@@ -1,4 +1,4 @@
 [submodule "testing/public"]
 	path = testing/public
-	url = https://github.com/ahuitron/alfredohuitron.github.io.git
+	url = https://github.com/ahuitron/myblog.github.io.git
 	branch = main
