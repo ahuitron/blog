@@ -1,7 +1,7 @@
 ---
 title: "Product Principles for New PMs"
 date: 2023-04-26T15:50:06-07:00
-draft: true
+draft: false
 ---
 
 Product is a tough place to start your career in. You start with a wide scope, are given a business goal to pursue, and have to create the structure to make sure your team is on track to achieve those business goals. All while making your customers, devs, triad, and stakeholders happy. It's a lot to take in, and when shit inevitabley hits the fan, you're left wondering if you really are cut out for the job. 
