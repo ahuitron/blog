@@ -1,4 +1,4 @@
-Hi! I'm Alfredo. I'm a Product Manager at Atlassian based out of San Francisco, California.
+Hi! I'm Alfredo, a Product Manager at Atlassian based out of San Francisco, California.
 I grew up in Texas and studied Advertising and CS at UT Austin. 
 
 I've spent the first year out of college building Beacon, a new cloud security product at Atlassian.
